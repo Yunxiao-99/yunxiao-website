@@ -43,7 +43,7 @@ sections:
         - title: Research Assistant
           company: Nanyang Technological University
           company_url: ''
-          company_logo: org-ntu
+          company_logo: org-ntu.png
           location: Singapore
           date_start: '2022-07-01'
           date_end: '2023-04-01'
@@ -53,7 +53,7 @@ sections:
         - title: Research Assistant
           company: Chinese University of Hong Kong
           company_url: ''
-          company_logo: org-cuhk
+          company_logo: org-cuhk.png
           location: Shenzhen
           date_start: '2023-04-01'
           date_end: '2023-08-01'
