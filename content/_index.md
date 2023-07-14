@@ -18,7 +18,7 @@ sections:
       items:
         - name: Python
           description: 100%
-          icon: r-project
+          icon: python
           icon_pack: fab
         - name: Julia
           description: 50%
