@@ -16,12 +16,12 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Python
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Julia
+          description: 50%
           icon: chart-line
           icon_pack: fas
         - name: Photography
@@ -40,27 +40,24 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: Nanyang Technological University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Singapore
+          date_start: '2022-07-01'
+          date_end: '2023-04-01'
           description: |2-
-              Responsibilities include:
+              Participating in NTU-SUNSEAP: Mitigating Solar Intermittency using Energy Storage System and Demand Side Management.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Research Assistant
+          company: Chinese University of Hong Kong
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Shenzhen
+          date_start: '2023-04-01'
+          date_end: '2023-08-01'
+          description: AI-Powered Power System.
     design:
       columns: '2'
   - block: accomplishments
