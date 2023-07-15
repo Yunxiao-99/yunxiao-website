@@ -22,8 +22,8 @@ sections:
           icon_pack: fab
         - name: Julia
           description: 50%
-          icon: rectangle-code
-          icon_pack: fab
+          icon: code
+          icon_pack: fas
         - name: Photography
           description: 10%
           icon: camera-retro
