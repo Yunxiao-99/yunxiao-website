@@ -22,7 +22,7 @@ sections:
           icon_pack: fab
         - name: Julia
           description: 50%
-          icon: chart-line
+          icon: rectangle-code
           icon_pack: fas
         - name: Photography
           description: 10%
